@@ -5,7 +5,7 @@ name: my action
 
 on:
   pull_request:
-    branches: [ master ]
+    branches: [master]
 
 jobs:
   mytest:
