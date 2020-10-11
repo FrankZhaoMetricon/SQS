@@ -24,4 +24,4 @@ jobs:
     - name:  Install
       run: npm install
     - name: Testing
-      run: npm int-test
+      run: npm test
