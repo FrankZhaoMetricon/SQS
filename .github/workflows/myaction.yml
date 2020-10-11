@@ -23,5 +23,5 @@ jobs:
 
     - name:  Install
       run: npm install
-    - name: Testing
-      run: npm test
+    - name: List helping
+      run: npm help
